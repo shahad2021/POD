@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Favourite_icon__grey_filled_1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Favourite_icon__grey_filled_2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Favourite_icon__grey_filled_3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

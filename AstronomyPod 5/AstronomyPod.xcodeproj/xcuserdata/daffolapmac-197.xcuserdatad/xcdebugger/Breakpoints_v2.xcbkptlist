@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "09272A7F-E895-49B6-A027-74B30B98E75C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD6E18A2-2841-46F3-A2D7-E98EAC3FDBDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AstronomyPod/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "fetchImageOfTheDay(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD6E18A2-2841-46F3-A2D7-E98EAC3FDBDD - f4b4d18b25f0d7e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AstronomyPod.NetworkManager.fetchImageOfTheDay(completion: (Swift.Optional&lt;AstronomyPod.AstronomyPicture&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AstronomyPod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daffolapmac-197/Documents/AstronomyPod/AstronomyPod/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "294">
+               </Location>
+               <Location
+                  uuid = "DD6E18A2-2841-46F3-A2D7-E98EAC3FDBDD - 6cff050b23cbd742"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AstronomyPod.NetworkManager.fetchImageOfTheDay(completion: (Swift.Optional&lt;AstronomyPod.AstronomyPicture&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AstronomyPod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daffolapmac-197/Documents/AstronomyPod/AstronomyPod/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9152C27C-0546-4C65-AB4C-08ACE408ABF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AstronomyPod/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchImageOfTheDay(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ECF1A29-2415-4B61-9A7E-39A5D6CDCF16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AstronomyPod/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchImageOfTheDay(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
